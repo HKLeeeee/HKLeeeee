@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/Heekyoung-f148fa9e02ee4d379538f000b9dc4d20" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
+<a href="https://www.notion.so/Heekyoung-d7551c1703b84564b909d4d13bfa2ac1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 
 ![HeeKyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKLeeeee&show_icons=true&theme=radical)
 
