@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/Heekyoung-f148fa9e02ee4d379538f000b9dc4d20" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=appveyor&logo=Notion&logoColor=#ffffff"/></a>
+<a href="https://www.notion.so/Heekyoung-f148fa9e02ee4d379538f000b9dc4d20" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=appveyor&logo=Notion&logoColor=#ffffff"/></a>
 
 <!--
 **HKLeeeee/HKLeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
