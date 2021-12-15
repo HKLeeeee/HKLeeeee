@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heekyoung%20Lee&render&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heekyoung%20Lee&render&fontSize=60&fontAlign=70&fontAlignY=40" />
 
 <!--# :see_no_evil: Heekyoung Lee
 
