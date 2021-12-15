@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heekyoung%20Lee&render&fontSize=60&fontAlign=70&fontAlignY=30" />
 
 <!-- 소개 -->
-<h2 align="center" Hi there 👋/>
+<h2 align="center">Hi there 👋<h2/>
 ------
 <!-- 내 페이지, contact ... -->
 <p align="center">
