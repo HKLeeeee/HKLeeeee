@@ -11,7 +11,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    
   
+    
 </p>
 <!-- 내 페이지, contact ... -->
 <h3 align="center"> 🌏 ME 🌏 <h3/>
@@ -20,8 +22,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 <a href="https://www.instagram.com/heekyoung_11/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:iscowkite@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dlapdlf1739@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/dlapdlf1739@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://blog.naver.com/ilovemdb" target="_blank">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 </p>
