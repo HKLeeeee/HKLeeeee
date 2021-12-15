@@ -1,13 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heekyoung%20Lee&render&fontSize=60&fontAlign=70&fontAlignY=30" />
 
-<!--# :see_no_evil: Heekyoung Lee
-
+<!-- 소개 -->
 ### Hi there 👋
+
+<!-- 내 페이지, contact ... -->
 <p>
 <a href="https://www.notion.so/Heekyoung-d7551c1703b84564b909d4d13bfa2ac1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 
 </p>
--->
+
+<!--Tech Skills-->
+
+
 
 <!--
 ![HeeKyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKLeeeee&show_icons=true&theme=radical)
