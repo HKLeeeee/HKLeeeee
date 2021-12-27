@@ -17,16 +17,17 @@
 <!-- 내 페이지, contact ... -->
 <h3 align="center"> 🌏 ME 🌏 <h3/>
 <p align="center">
+<a href="mailto:dlapdlf1739@gmail.com" target="_blank">
+</p>
+  
+<p align="center">
 <a href="https://www.notion.so/Heekyoung-d7551c1703b84564b909d4d13bfa2ac1" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 <a href="https://www.instagram.com/heekyoung_11/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:dlapdlf1739@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/dlapdlf1739@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://blog.naver.com/ilovemdb" target="_blank">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 </p>
-
 
 
 
