@@ -16,8 +16,10 @@
       
 <!-- 내 페이지, contact ... -->
 <h3 align="center"> 🌏 ME 🌏 <h3/>
+ 
 <p align="center">
 <a href="mailto:dlapdlf1739@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/dlapdlf1739@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
   
 <p align="center">
