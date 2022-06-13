@@ -16,9 +16,9 @@
       
 <!-- 내 페이지, contact ... -->
 <h3 align="center"> 🌏 ME 🌏 <h3/>
- 
+
 <p align="center">
-<a href="https://www.notion.so/Heekyoung-d7551c1703b84564b909d4d13bfa2ac1" target="_blank">
+<a href="https://vigorous-pawpaw-311.notion.site/Portfolio-e26ad5cc58704ef499ce1d587c9387f7" target="_blank">
   <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
 <a href="https://stop-thinking-start-now.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/StudyLog-FAFAFA?style=flat-square&logo=Telegraph&logoColor=black"/></a>
