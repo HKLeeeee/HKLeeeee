@@ -29,8 +29,8 @@
 <h3 align="center"> 🌏 ME 🌏 <h3/>
 
 <p align="center">
-<a href="https://vigorous-pawpaw-311.notion.site/Portfolio-e26ad5cc58704ef499ce1d587c9387f7" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a>
+<!--a href="https://vigorous-pawpaw-311.notion.site/Portfolio-e26ad5cc58704ef499ce1d587c9387f7" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/></a-->
 <a href="https://stop-thinking-start-now.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/StudyLog-FAFAFA?style=flat-square&logo=Telegraph&logoColor=black"/></a>
 <br>
