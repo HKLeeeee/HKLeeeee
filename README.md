@@ -36,7 +36,7 @@
 <a href="https://vigorous-pawpaw-311.notion.site/Portfolio-e26ad5cc58704ef499ce1d587c9387f7" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/>
 <a href="https://stop-thinking-start-now.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/StudyLog-FAFAFA?style=flat-square&logo=Telegraph&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Study_B_Log-FAFAFA?style=flat-square&logo=Telegraph&logoColor=black"/></a>
 <br>
 <a href="mailto:dlapdlf1739@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/dlapdlf1739@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
