@@ -4,9 +4,13 @@ Hi, there 👋
 
 I'm interested in WEB and AI.
 
+- Samsung Electronics, SW (2024.10 ~)
+- Ecube Labs, Full-stack Engineer (2024.04 ~ 06)
+- Human ICT, AI developer (2022.11 ~ 2023.06)
+
 
 <!-- tech skills -->
-<h4> Tech Skills 🛠️ <h4/>
+<h4> Tech Skills 🛠️ </h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -26,13 +30,11 @@ I'm interested in WEB and AI.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>    
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>    
-
 </p>
   
       
 <!-- 내 페이지, contact ... -->
 <h4> About ME 🌏 <h4/>
-
 <p>
 <a href="https://vigorous-pawpaw-311.notion.site/Portfolio-e26ad5cc58704ef499ce1d587c9387f7" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=#ffffff"/>
@@ -40,8 +42,10 @@ I'm interested in WEB and AI.
   <img src="https://img.shields.io/badge/Study_B_Log-FAFAFA?style=flat-square&logo=Telegraph&logoColor=black"/></a>
 <a href="mailto:ilovemdb@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+</p>
 <hr />
+
+<p>
 
 ![HeeKyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HKLeeeee&show_icons=true&theme=radical)
 
